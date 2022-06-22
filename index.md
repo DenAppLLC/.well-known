@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0022)https://thedenapp.com/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +10,6 @@
 
 <body data-new-gr-c-s-check-loaded="14.1064.0" data-gr-ext-installed="">
 
-
     <section id="wellcomeID">
         <div class="Wellcome_Group">
             <div class="wellcome_item">
@@ -21,8 +19,3 @@
             </div>
         </div>
     </section>
-
-
-
-
-</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
