@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0022)https://thedenapp.com/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="2Sb7YayW3yJmvGRuN3npVNnFaYatSaNXB7KEzO9FuTw" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./Document_files/style.css">
+</head>
 
-You can use the [editor on GitHub](https://github.com/trungnn307/trungnn307.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body data-new-gr-c-s-check-loaded="14.1064.0" data-gr-ext-installed="">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+    <section id="wellcomeID">
+        <div class="Wellcome_Group">
+            <div class="wellcome_item">
+                <h1 class="DEN" style="color: #67c9fa;">Den</h1>
+                <img src="https://play-lh.googleusercontent.com/WpngUpwPRn2wI2xWZ_aqXoLqIJccTaRBBNWDsjFpBHP4UAqjCeI7aBq_PXGMh5Kb5-8=w480-h960-rw" alt="logo" class="logo">
+                <h1>Welcome to The Den App! This is a room invite link, you can close this after redirection</h1>
+            </div>
+        </div>
+    </section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trungnn307/trungnn307.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
